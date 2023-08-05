@@ -1,0 +1,53 @@
+{
+  "name": "Renan Augusto",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Junior developer",
+  "location": "São José do Rio Preto - SP",
+  "phone": "(17) - 98126-0313",
+  "email": "renan_Acm1992@hotmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "C#",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      }
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Organização",
+      "Comprometimento com resultados"
+    ]
+  },
+  "languages": ["Português BR", "Inglês (avançado)"],
+  "portfolio": [
+    {
+      "name": "Construção de um sistema gerenciador de estágios",
+      "url": "https://github.com/renan-augusto/piTeste",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor Full Stack Junior / Ecori Energia Solar",
+      "period": "2023 - até o momento",
+      "description": "Desenvolvimento de aplicação WEB - Stack Angular e .NET. Trabalho realizado com metodologias ágeis - SCRUM."
+    }
+  ]
+}
