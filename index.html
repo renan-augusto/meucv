@@ -22,20 +22,20 @@
 <body>
     <main class="main">
         <header class="header">
-            <img src="./assets/img/photo-renan.jpeg" alt="Foto de Renan Augusto" class="photo">
+            <img src="" alt=" Foto de perfil" class="photo" id="profile.photo">
 
             <h1 class="title">
-                Olá, <br />sou Renan Augusto
+                Olá, <br />sou <span id="profile.name">Loading...</span>
             </h1>
 
             <div class="information">
-                <p class="position">Junior Developer</p>
-                <p class="location">São José do Rio Preto - SP</p>
+                <p class="position"><span id="profile.position">Loading...</span></p>
+                <p class="location"><span id="profile.location">Loading...</span></p>
                 <p class="phone">
-                    <a href="tel:(17)9 8126-0313">(17) 98126-0313</a>
+                    <a href="tel:(99)9 9999-9999" id="profile.phone">Loading...</a>
                 </p>
                 <p class="mail">
-                    <a href="mailto:renan_acm1992@hotmail.com">renan_acm1992@hotmail.com</a>
+                    <a href="mailto:teste@hotmail.com" id="profile.email">Loading...</a>
                 </p>
             </div>
         </header>
@@ -48,29 +48,17 @@
                 <div class="skills">
                     <section class="tools">
                         <h3>Ferramentas:</h3>
-                        <ul>
+                        <ul id="profile.skills.hardSkills">
                             <li>
-                                <img src="./assets/img/icons/languages/angular.svg" alt="Angular" title="Angular">
-                            </li>
-                            <li>
-                                <img src="./assets/img/icons/languages/js.svg" alt="JavaScript" title="JavaScript">
-                            </li>
-                            <li>
-                                <img src="./assets/img/icons/languages/csharp.svg" alt="C#" title="C#">
-                            </li>
-                            <li>
-                                <img src="./assets/img/icons/languages/python.svg" alt="Python" title="Python">
+                                <img src="" alt="Carregando" title="Carregando">
                             </li>
                         </ul>
                     </section>
 
                     <section class="personal">
                         <h3>Pessoal:</h3>
-                        <ul>
-                            <li>Trabalho em equipe</li>
-                            <li>Comunicação</li>
-                            <li>Organização</li>
-                            <li>Comprometimento com resultados</li>
+                        <ul id="profile.skills.softSkills">
+                            <li>Loading...</li>
                         </ul>
                     </section>
                 </div>
@@ -109,7 +97,7 @@
         </section>
         <section class="accordeon">
             <button class="trigger" type="button">
-                <h2>Experiência profissional</h2>
+                <h2>Experiência</h2>
             </button>
 
             <div class="content">
@@ -126,6 +114,8 @@
 
     </main>
     <script src="./assets/js/accordeon.js"></script>
+    <script src="./assets/js/api.js"></script>
+    <script src="./assets/js/main.js"></script>
 </body>
 
 </html>
