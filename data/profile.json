@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/angular.svg"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/js.svg"
       },
       {
         "name": "C#",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/csharp.svg"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/python.svg"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/git.svg"
       }
     ],
     "softSkills": [
