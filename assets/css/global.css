@@ -1,3 +1,8 @@
+html {
+  --black: #000;
+  --white: white;
+}
+
 * {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
@@ -10,7 +15,7 @@
 
 a {
   text-decoration: none;
-  color: #fff;
+  color: var(--white);
 }
 
 a:hover {
@@ -18,14 +23,14 @@ a:hover {
 }
 
 body {
-  background-color: #000;
-  color: white;
+  background-color: var(--black);
+  color: var(--white);
 }
 
 .main {
   margin: 1rem;
   padding: 1rem;
-  border: 1px solid #fff;
+  border: 1px solid var(--white);
   border-radius: 1rem;
 }
 
