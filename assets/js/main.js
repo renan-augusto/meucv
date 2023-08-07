@@ -55,6 +55,20 @@ function getPortfolio(profileData) {
     .join("");
 }
 
+function getExperience(profileData) {
+  const experience = document.getElementById("profile.professionalExperience");
+  experience.innerHTML = profileData.professionalExperience
+    .map(
+      (p) =>
+        `<li>
+      <h3 class="title">${p.name}</h3>
+      <span class="period">${p.period}</span>
+      <p>${p.description}</p>
+    </li>`
+    )
+    .join("");
+}
+
 (async () => {
   const profileData = await fetchProfileData();
   getProfileData(profileData);
@@ -62,5 +76,5 @@ function getPortfolio(profileData) {
   getHardSkills(profileData);
   getLanguages(profileData);
   getPortfolio(profileData);
-  console.log(profileData);
+  getExperience(profileData);
 })();
