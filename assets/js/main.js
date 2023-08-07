@@ -38,21 +38,20 @@ function getHardSkills(profileData) {
 function getLanguages(profileData) {
   const languages = document.getElementById("profile.languages");
   languages.innerHTML = profileData.languages
-    .map((l) => {
-      `<li>${l}</li>`;
-    })
+    .map((l) => `<li>${l}</li>`)
     .join("");
 }
 
 function getPortfolio(profileData) {
   const portfolio = document.getElementById("profile.portfolio");
   portfolio.innerHTML = profileData.portfolio
-    .map((p) => {
-      `<li>
+    .map(
+      (p) =>
+        `<li>
         <h3 ${p.github ? 'class="github"' : ""}>${p.name}</h3>
         <a href="${p.url}" target="_blank">${p.url}</a>
-    </li>`;
-    })
+    </li>`
+    )
     .join("");
 }
 
