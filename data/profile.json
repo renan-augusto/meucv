@@ -41,6 +41,11 @@
       "name": "Construção de um sistema gerenciador de estágios",
       "url": "https://github.com/renan-augusto/piTeste",
       "github": true
+    },
+    {
+      "name": "SPA de consumo da Star Wars Api",
+      "url": "https://github.com/renan-augusto/swApi",
+      "github": true
     }
   ],
   "professionalExperience": [
