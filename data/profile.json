@@ -46,13 +46,23 @@
       "name": "SPA de consumo da Star Wars Api",
       "url": "https://github.com/renan-augusto/swApi",
       "github": true
+    },
+    {
+      "name": "Task Manager App (Gerenciador de tarefas - Angular & NestJs)",
+      "url": "https://github.com/renan-augusto/task-manager-app",
+      "github": true
     }
   ],
   "professionalExperience": [
     {
       "name": "Desenvolvedor Full Stack Junior / Ecori Energia Solar",
-      "period": "2023 - até o momento",
+      "period": "Fev/2023 - Jan/2024",
       "description": "Desenvolvimento de aplicação WEB - Stack Angular e .NET. Trabalho realizado com metodologias ágeis - SCRUM."
+    },
+    {
+      "name": "Analista Desenvolvedor Junior III / Ecori Energia Solar",
+      "period": "Jan/2023 - atual",
+      "description": "Desenvolvimento Angular, consumo de WebServices ERP Protheus - TOTVS"
     }
   ]
 }
