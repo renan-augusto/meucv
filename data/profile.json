@@ -24,14 +24,6 @@
         "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/csharp.svg"
       },
       {
-        "name": "Python",
-        "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/python.svg"
-      },
-      {
-        "name": "Git",
-        "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/git.svg"
-      },
-      {
         "name": "AdvPl - TOTVS",
         "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/refs/heads/master/assets/img/icons/languages/advpl.svg"
       }
@@ -69,7 +61,7 @@
     },
     {
       "name": "Analista Desenvolvedor Junior III / Maza Tarraf",
-      "period": "Jan/2023 - atual",
+      "period": "Jan/2024 - atual",
       "description": "- Atuação no desenvolvimento de soluções Progressive Web Applications (PWA) integradas com o ERP Totvs Protheus, atendendo tanto a necessidades de gerenciamento empresarial quanto a demandas dos colaboradores.\n- Consumo de WebServices do Totvs Protheus REST.\n- Desenvolvimento de WebServices Totvs Protheus REST, utilizando a linguagem de programação ADVPL.\n- Versionamento de código.\n- Apoio a colaboradores menos experientes no desenvolvimento de software, promovendo um ambiente de aprendizado e compartilhamento de conhecimento.\n- Análise de desempenho no código e implementação de novas features.\n- Utilização do Azure Boards para rastreamento de tarefas, bugs, acompanhamento de progresso de projetos e criação de novas tarefas e bugs.\n- Atuação dentro de metodologias ágeis - Scrum.\n- Deploy de aplicações Angular no serviço NGINX em servidores Ubuntu Server.\n- Auxílio na implantação de boas práticas de Git."
     }
   ]
