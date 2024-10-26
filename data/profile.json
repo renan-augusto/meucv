@@ -1,7 +1,7 @@
 {
   "name": "Renan Augusto",
   "photo": "https://avatars.githubusercontent.com/u/77972424?v=4",
-  "position": "Junior developer",
+  "position": "Desenvolvedor Full Stack ",
   "location": "São José do Rio Preto - SP",
   "phone": "(17) 98126-0313",
   "email": "renan_acm1992@hotmail.com",
@@ -15,6 +15,10 @@
         "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/js.svg"
       },
+      {
+        "name": "TypeScript"
+
+      }
       {
         "name": "C#",
         "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/csharp.svg"
