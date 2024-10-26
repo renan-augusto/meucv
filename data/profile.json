@@ -3,7 +3,7 @@
   "photo": "https://avatars.githubusercontent.com/u/77972424?v=4",
   "position": "Junior developer",
   "location": "São José do Rio Preto - SP",
-  "phone": "(17) - 98126-0313",
+  "phone": "(17) 98126-0313",
   "email": "renan_acm1992@hotmail.com",
   "skills": {
     "hardSkills": [
@@ -26,6 +26,10 @@
       {
         "name": "Git",
         "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/git.svg"
+      },
+      {
+        "name": "AdvPl - TOTVS",
+        "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/refs/heads/master/assets/img/icons/advpl.svg"
       }
     ],
     "softSkills": [
@@ -57,12 +61,12 @@
     {
       "name": "Desenvolvedor Full Stack Junior / Ecori Energia Solar",
       "period": "Fev/2023 - Jan/2024",
-      "description": "Desenvolvimento de aplicação WEB - Stack Angular e .NET. Trabalho realizado com metodologias ágeis - SCRUM."
+      "description": "- Desenvolvimento de um portal B2B integrado com o ERP Totvs Protheus para dimensionamento e compra de produtos de energia fotovoltaica utilizando as seguintes tecnologias: Angular, JavaScript, TypeScript, Entity Framework, .NET, C#, Dotnet Core, Git.\n- Testes de usabilidade e validação funcional: realização de testes para identificação de bugs e documentação para suas respectivas correções, garantindo que as funcionalidades fossem intuitivas e atendessem aos requisitos dos usuários finais.\n- Análise de desempenho no código e implementação de novas features.\n- Versionamento de código.\n- Apoio a colaboradores menos experientes no desenvolvimento de software, promovendo um ambiente de aprendizado e compartilhamento de conhecimento.\n- Utilização do Azure Boards para rastreamento de tarefas, bugs e acompanhamento de progresso de projetos."
     },
     {
       "name": "Analista Desenvolvedor Junior III / Maza Tarraf",
       "period": "Jan/2023 - atual",
-      "description": "Desenvolvimento Angular, consumo de WebServices ERP Protheus - TOTVS"
+      "description": "- Atuação no desenvolvimento de soluções Progressive Web Applications (PWA) integradas com o ERP Totvs Protheus, atendendo tanto a necessidades de gerenciamento empresarial quanto a demandas dos colaboradores.\n- Consumo de WebServices do Totvs Protheus REST.\n- Desenvolvimento de WebServices Totvs Protheus REST, utilizando a linguagem de programação ADVPL.\n- Versionamento de código.\n- Apoio a colaboradores menos experientes no desenvolvimento de software, promovendo um ambiente de aprendizado e compartilhamento de conhecimento.\n- Análise de desempenho no código e implementação de novas features.\n- Utilização do Azure Boards para rastreamento de tarefas, bugs, acompanhamento de progresso de projetos e criação de novas tarefas e bugs.\n- Atuação dentro de metodologias ágeis - Scrum.\n- Deploy de aplicações Angular no serviço NGINX em servidores Ubuntu Server.\n- Auxílio na implantação de boas práticas de Git."
     }
   ]
 }
