@@ -16,9 +16,9 @@
         "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/js.svg"
       },
       {
-        "name": "TypeScript"
-
-      }
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/refs/heads/master/assets/img/icons/languages/typescript.svg"
+      },
       {
         "name": "C#",
         "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/master/assets/img/icons/languages/csharp.svg"
@@ -33,7 +33,7 @@
       },
       {
         "name": "AdvPl - TOTVS",
-        "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/refs/heads/master/assets/img/icons/advpl.svg"
+        "logo": "https://raw.githubusercontent.com/renan-augusto/meucv/refs/heads/master/assets/img/icons/languages/advpl.svg"
       }
     ],
     "softSkills": [
